@@ -1,4 +1,3 @@
--- Version: 3.2
 local toggled = false
 local debounce = false
 
